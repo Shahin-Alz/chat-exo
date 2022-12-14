@@ -1,3 +1,58 @@
-h1{
-    font-family: kadri;
+.iphone{
+    height: 70vh;
+    width: 40vh;
+    background-color: #f5f3f8;
+    margin: 20px;
+    border-radius: 40px;
+    border: solid 10px ;
+    border-color: #fffeff;
+}
+
+.S-Green{
+    padding-top: 40px;
+    width: 100%;
+    height: 100px;
+    background: rgb(146,58,255);
+    background: linear-gradient(90deg, rgba(146,58,255,1) 0%, rgba(221,66,254,1) 100%);
+    border-radius: 20px;
+}
+
+.img1{
+    border-radius: 180px;
+    width: 50px;
+    border: 3px solid;
+    border-color: whitesmoke;
+}
+
+.contenu1{
+    font-size: xx-small;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.contenu2{
+    background-color: #ede5f5;
+    height: 25px;
+    padding: 25px;
+    margin: 10px;
+    font-size: xx-small;
+    width: 60%;
+    border-radius: 10px;
+    
+}
+
+.para{
+    position: relative;
+    bottom: 15px;
+}
+
+.img1{
+    width: 55px;
+    border-radius: 10px;
+}
+
+.S-Green3{
+    justify-content: flex-end;
 }
